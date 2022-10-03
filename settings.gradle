@@ -1,0 +1,5 @@
+rootProject.name = 'test-feign-client'
+include 'module-producer'
+include 'module-consumer'
+include 'module-common'
+
